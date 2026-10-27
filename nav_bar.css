@@ -1,0 +1,34 @@
+
+body{
+    margin: 0;
+    font-family: cursive;
+    background-color: #f5f3e8;
+}
+.topnav{
+    overflow: hidden;
+    background-color: #244b3c;
+}
+.topnav a{
+    float: left;
+    color: #f5f3e8;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover{
+    background-color: #c8ddc5;
+    color: #244b3c;
+}
+.topnav a.active{
+    background-color: #a8c5a0;
+    color: #183629;
+}
+.heading{
+    background-color: #dce8d5;
+    color: #244b3c;
+    text-align: center;
+    padding: 25px;
+    font-weight: bolder;
+    font-size: 100px;
+}
